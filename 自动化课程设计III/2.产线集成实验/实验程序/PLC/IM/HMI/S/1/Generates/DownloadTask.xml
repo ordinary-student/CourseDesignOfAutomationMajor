@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="14.0.1.0"
+    CreationTime="2019-05-02 01:05:34 (UTC)"
+    Runtime="SMART"
+    RtProjectName="产线_线1站1.HMI_1[KTP1200 Basic PN]"
+    RtProjectFolderName="产线_线1站1.HMI_1[KTP1200 Basic PN]"
+    DeviceType="KTP1200_Basic"
+    DisplayOrientation="0"
+    RTReleaseNo="14.0.1.3"
+    ImageReleaseNo="14.0.1.3"
+    RTCV="14.0.1.0"
+    PRCV="14.0.1.0"
+    FirmwareFileName="KTP1200\14.0.1.3\KTP1200_V14_00_01_03.fwf"
+    RuntimeFileName="KTP1200\14.0.1.3\KTP1200_V14_00_01_03.fwf"
+    RuntimeAddonFolderName="KTP1200" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+</DownloadTask>
