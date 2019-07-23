@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="八段LED实验" typeText="类型" messageText="消息" timeText="时间">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:25">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="已开始升级" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:25">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="读取之前项目/库的信息。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:26">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="新建项目/库。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="导出项目/库数据。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:32" Debug="false">
+    <Text />
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:32">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="将数据导入新项目/库。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:41" Debug="false">
+    <Text />
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:43" Debug="false">
+    <Text>Reorganization succeed!</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:43">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair lost+found objects" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:43" Debug="false">
+    <Text>No lost+found object is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:43">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="将数据导入新项目/库。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:45">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目或库将进行一致性和完整性检测并进行修复。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:45">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="更新新项目/库。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:46">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="更新新项目/库。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>HmiConvert: Started conversion section.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.GraphX.Controls.Managers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.Controls.ProDiagPhaseConverter.ConvertProperties&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.GraphX.Controls.Managers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.Controls.ProDiagPhaseConverter.ConvertProperties&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.TextCategoryConvert.CreateNewTextCategoriesV14&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.TextCategoryConvert.CreateNewTextCategoriesV14&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.FontConvert.UpdateFontListNames&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.FontConvert.UpdateFontListNames&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.ScreenModules.Managers.Scan:Siemens.Simatic.Hmi.Utah.Modules.ScreenModules.PhaseConverter.RepairFaceplateTypesAndInstances&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.ScreenModules.Managers.Scan:Siemens.Simatic.Hmi.Utah.Modules.ScreenModules.PhaseConverter.RepairFaceplateTypesAndInstances&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Device.DeviceManagers.Scan:Siemens.Simatic.Hmi.Utah.Device.Upgrade.DeviceConverter.ConvertHmiDeviceToV14&gt;.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Error" Timestamp="2018/11/22 星期四 13:01:54">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="转换方法错误： Siemens.Simatic.Hmi.Utah.Device.Upgrade.DeviceConverter.ConvertHmiDeviceToV14(IHmiConversionData)!" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Error" Timestamp="2018/11/22 星期四 13:01:54">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="在转换类型 '对象'时出错（型号类型 'Siemens.Simatic.Hmi.Utah.Common.Base.HmiConvertData'）" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>CertEnroll::CX509PrivateKey::put_ProviderName: 指定了无效的提供程序。 0x80090013 (-2146893805)
+   at CERTENROLLLib.IX509PrivateKey.set_ProviderName(String pValue)
+   at Siemens.Simatic.Hmi.BL.Basics.Security.Pkcs12Certificate.CreateCerificateRequest(String certificateName)
+   at Siemens.Simatic.Hmi.BL.Basics.Security.Pkcs12Certificate..ctor(String certificateName, String password)
+   at Siemens.Simatic.Hmi.Utah.Device.Upgrade.DeviceConverter.InitCertificate(ICoreObject coreDevice)
+   at Siemens.Simatic.Hmi.Utah.Device.Upgrade.DeviceConverter.ConvertHmiDevice(ICoreObject coreDevice)
+   at Siemens.Simatic.Hmi.Utah.Device.Upgrade.DeviceConverter.ConvertDevice(Boolean result, ICoreObject coreDevice)
+   at Siemens.Simatic.Hmi.Utah.Device.Upgrade.DeviceConverter.ConvertHmiDeviceToV14(IHmiConversionData conversionData)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Siemens.Simatic.Hmi.Common.Convert.CallMethodConversionStep.Execute[T](ICorePersistence corePersistence, IConvertInfo convertInfo, Version from, Version to, IDictionary`2 conversionDictionary)
+   at Siemens.Simatic.Hmi.Common.Convert.CallMethodConversionStep.DoExecuteConvertOnCoreObjectLevel(ICorePersistence corePersistence, IConvertInfo convertInfo, Version from, Version to, IDictionary`2 conversionDictionary)
+   at Siemens.Simatic.Hmi.Common.Convert.ConversionStepBase.Siemens.Simatic.Hmi.Common.Convert.IHmiConversionStep.Execute(ICorePersistence corePersistence, IConvertInfo convertInfo, Version from, Version to, IDictionary`2 conversionDictionary)
+   at Siemens.Simatic.Hmi.Common.Convert.HmiConverter.Siemens.Simatic.Hmi.Common.Convert.IHmiConverter.Execute(IConvertInfo convertInfo)
+   at Siemens.Simatic.Hmi.Common.Convert.HmiConvertBusinessLogicFactory.ConvertHmiObjects(IConvertInfo conversionInfo)
+   at Siemens.Simatic.Hmi.Common.Convert.HmiConvertBusinessLogicFactory.Siemens.Automation.ObjectFrame.BusinessLogic.IConvertPhaseHook.OnConvert(IConvertInfo conversionInfo)
+   at Siemens.Automation.ObjectFrame.Conversion.DelegateParam1ReturnValueAdapter`2.Method()
+   at Siemens.Automation.ObjectFrame.Conversion.ConversionExceptionCollector.CollectOrThrowConversionException(SimpleMethodCallback methodToCall)</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Error" Timestamp="2018/11/22 星期四 13:01:54">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="发现未转换的对象类型：'对象'（型号类型 'Siemens.Simatic.Hmi.Utah.Common.Base.HmiConvertData'）" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Error" Timestamp="2018/11/22 星期四 13:01:54">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="发现未转换的对象类型：'对象'（型号类型 'Siemens.Simatic.AlarmServices.ObjectFrame.AlarmData'）" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Error" Timestamp="2018/11/22 星期四 13:01:54">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="发现未转换的对象类型：'CodeBlockData'（型号类型 'Siemens.Simatic.PlcLanguages.Model.CodeBlockData'）" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Error" Timestamp="2018/11/22 星期四 13:01:54">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="该项目或库中可能包含有当前所安装软件无法升级的数据。请使用功能更强的较高版本软件进行重新升级。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Error" Timestamp="2018/11/22 星期四 13:01:54">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="升级失败。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:54" Debug="false">
+    <Text>Client error message
+   at Siemens.Automation.ObjectFrame.Conversion.ConversionHandler.CallHooksInsideCommand(IComparer`1 packageVersionComparer)
+   at Siemens.Automation.ObjectFrame.Conversion.ConversionExceptionCollector.CollectOrThrowConversionException(SimpleMethodCallback methodToCall)</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:55">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="更新新项目/库。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:55">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="正在转换交叉引用信息。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:55">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="交叉引用信息已成功创建." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2018/11/22 星期四 13:01:55">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="交叉引用信息的转换已完成。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Error" Timestamp="2018/11/22 星期四 13:01:55">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="升级失败。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:55" Debug="false">
+    <Text>升级失败。
+   at Siemens.Automation.ObjectFrame.Conversion.ConversionHandler.Siemens.Automation.ObjectFrame.Conversion.IConversionHandler.CheckCollectedExceptions()
+   at Siemens.Automation.ObjectFrame.Conversion.ConversionProcess.Run()</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2018/11/22 星期四 13:01:55" Debug="false">
+    <Text>Client error message
+   at Siemens.Automation.ObjectFrame.Conversion.ConversionHandler.CallHooksInsideCommand(IComparer`1 packageVersionComparer)
+   at Siemens.Automation.ObjectFrame.Conversion.ConversionExceptionCollector.CollectOrThrowConversionException(SimpleMethodCallback methodToCall)</Text>
+  </Details>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectFailed" MessageClass="Error" Timestamp="2018/11/22 星期四 13:01:55">
+    <Number ServiceNumber="80" MessageNumber="33" />
+    <Text FeedbackText="无法升级项目 'F:\学习资料\电气控制技术与PLC\S7-1200 实验资料\八段LED程序样例\八段LED实验\System\PEData.plf'。" />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>
